@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data (ignore all, but allow train.csv & test.csv)
+data/*
+!data/train.csv
+!data/test.csv
+
+# Model (ignore all, but allow these two)
+model/*
+!model/loan_approval_model.pkl
+!model/label_encoders.pkl
