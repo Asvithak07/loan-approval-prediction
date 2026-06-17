@@ -89,6 +89,16 @@ The model demonstrated strong predictive performance with balanced precision and
 * Cloud Deployment
 * Loan Risk Scoring Dashboard
 
+## Application Preview
+
+### Input Form
+
+![Home Page](images/home_page.png)
+
+### Prediction Result
+
+![Prediction](images/prediction_result.png)
+
 ## Author
 
 Asvithaa K
